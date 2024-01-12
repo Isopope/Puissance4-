@@ -13,7 +13,7 @@ import numpy as np
 iLignes_plateau = 6
 iColonnes_plateau = 7
 iNombre_jetons_victoire = 5
-iDifficulte_bot = 6
+iDifficulte_bot = 8
 lPlateau = np.zeros((iLignes_plateau, iColonnes_plateau))
 sCouleur_joueur1 = "Orange"
 sCouleur_joueur2 = "Rouge"
